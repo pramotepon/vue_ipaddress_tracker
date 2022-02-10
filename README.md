@@ -22,3 +22,7 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+### Library
+[Leaflet](https://leafletjs.com/).
+[geo.ipify](https://geo.ipify.org/).
